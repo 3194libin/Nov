@@ -277,7 +277,6 @@ class ViewController: UIViewController {
         else
         {
             temp=Double(re.text!)!
-           
             re.text = ""
         }
         flag=4;
@@ -306,6 +305,10 @@ class ViewController: UIViewController {
     @IBAction func buttonAC(_ sender: Any) {
         temp = 0
         re.text=""
+        if re.text==""
+        {
+            re.text="0"
+        }
     }
     override func viewDidLoad() {
         super.viewDidLoad()

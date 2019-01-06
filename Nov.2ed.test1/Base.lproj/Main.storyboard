@@ -167,7 +167,7 @@
                                     <action selector="button3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LnB-9U-MoR"/>
                                 </connections>
                             </button>
-                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="right" minimumFontSize="31" translatesAutoresizingMaskIntoConstraints="NO" id="WkU-d7-9gt">
+                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="0" borderStyle="roundedRect" textAlignment="right" minimumFontSize="31" translatesAutoresizingMaskIntoConstraints="NO" id="WkU-d7-9gt">
                                 <rect key="frame" x="80" y="182" width="272" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.6232239339558856" green="0.95797524076966656" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
